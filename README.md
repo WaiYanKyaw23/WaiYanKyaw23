@@ -40,8 +40,8 @@ Hello! I'm Wai Yan Kyaw, a dedicated Civil Engineer with a passion for designing
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [Wai Yan Kyaw](https://linkedin.com/in/waiyankyaw)
-- GitHub: [Civil Engineering Projects](https://github.com/your-github-profile)
+- LinkedIn: [Wai Yan Kyaw](https://www.linkedin.com/in/wai-yan-kyaw-a7942b266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- GitHub: [Civil Engineering Projects](https://github.com/WaiYanKyaw23)
 - Email: waiyankyaw@example.com
 - Portfolio: [Online Portfolio](https://your-portfolio-link.com)
 
