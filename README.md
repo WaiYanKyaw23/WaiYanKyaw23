@@ -1,16 +1,51 @@
-## Hi there 👋
+# 🏗️ Wai Yan Kyaw - Civil Engineer
 
-<!--
-**WaiYanKyaw23/WaiYanKyaw23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 About Me
+Hello! I'm Wai Yan Kyaw, a dedicated Civil Engineer with a passion for designing and building sustainable infrastructure. With experience in structural design, project management, and construction supervision, I aim to create efficient and impactful solutions for real-world challenges.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- Structural Design: Reinforced Concrete, Steel Structures
+- Software Proficiency: AutoCAD, Revit, SAP2000, ETABS, STAAD.Pro, Primavera P6
+- Project Management: Cost Estimation, Scheduling, Risk Assessment
+- Sustainability: Green Building Standards, Energy-efficient Design
+- Surveying: Land Surveying, GIS Mapping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Projects
+#### [Bridge Design Project]
+- Designed and analyzed a reinforced concrete bridge for a high-traffic urban area.
+- Tools used: SAP2000, AutoCAD, and Revit.
+
+#### [Residential Building Project]
+- Supervised the construction of a 10-story residential building, ensuring compliance with safety standards and timelines.
+- Managed material procurement and budget tracking.
+
+#### [Sustainable Urban Development Plan]
+- Developed a master plan for a sustainable residential community, focusing on water management, renewable energy, and green spaces.
+
+---
+
+### 📊 Certifications
+- Professional Engineer (PE) Certification
+- Advanced AutoCAD and Revit Certification
+- LEED Green Associate
+- Primavera P6 Project Management Certification
+
+---
+
+### 📈 Portfolio Highlights
+![Civil Engineering Portfolio Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=light)
+
+---
+
+### 📫 Let's Connect
+- LinkedIn: [Wai Yan Kyaw](https://linkedin.com/in/waiyankyaw)
+- GitHub: [Civil Engineering Projects](https://github.com/your-github-profile)
+- Email: waiyankyaw@example.com
+- Portfolio: [Online Portfolio](https://your-portfolio-link.com)
+
+---
+
+### 🌟 Fun Fact
+"Engineering is not only solving problems but shaping the future." 🚧
